@@ -34,7 +34,7 @@ gem "sidekiq", "~> 7.2"
 gem "redis", "~> 5.2"
 
 # Telegram bot
-gem "telegram-bot-ruby", "~> 0.16"
+gem "telegram-bot-ruby", "~> 2.4"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
