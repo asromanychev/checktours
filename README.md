@@ -3,7 +3,7 @@
 ## Быстрый старт
 
 Требования:
-- Ruby 3.2+
+- Ruby 3.3+
 - PostgreSQL 13+
 - Redis (для Sidekiq)
 
