@@ -30,7 +30,7 @@ gem "bootsnap", require: false
 
 # --- Added gems ---
 # Background jobs and Redis
-gem "sidekiq", "~> 7.2"
+gem "sidekiq", "~> 8.0"
 gem "redis", "~> 5.2"
 
 # Telegram bot
